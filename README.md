@@ -1,5 +1,4 @@
 ### Hi there 👋
-${lets}
 
 ![snake gif](https://github.com/whiteibescu/whiteibescu/blob/output/github-contribution-grid-snake.svg)
 <!--

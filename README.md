@@ -1,6 +1,5 @@
 ### Hi there 👋
-### 유니티 개발자
-### 박성수입니다!
+### 유니티 개발자 박성수입니다!
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteibescu)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteibescu)](https://github.com/anuraghazra/github-readme-stats)

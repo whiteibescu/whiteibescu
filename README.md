@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a Unity Developer
 
 - 🔭 I’m currently working on Semantic UI
 - 🌱 I’m currently learning Front End

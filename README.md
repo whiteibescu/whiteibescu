@@ -1,6 +1,6 @@
 ### Hi there 👋 I am a Unity Developer
-- 🔭 I’m currently working on Semantic UI
-- 🌱 I’m currently learning Front End
+- 🔭 I’m currently working on Semantic UI and Chart.js
+
 
 
 ---
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+- 🌱 I’m currently learning Front End
 -->

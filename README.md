@@ -1,6 +1,6 @@
 ### Hi there 👋 I am a Unity Developer
-- 🔭 I’m currently working on Semantic UI and Chart.js
-- 👯 I’m looking to collaborate on AR and VR Projects
+- 🔭 I’m currently working on AR Projects.
+- 👯 I’m looking to collaborate with Unity developers.
 
 
 ---

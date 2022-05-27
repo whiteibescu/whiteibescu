@@ -1,5 +1,5 @@
-### Hi there 👋 I am a Unity Developer
-- 🔭 I’m currently working on AR Projects.
+### Hi there 👋 I am a AR Unity Developer
+- 🔭 I’m currently working in Virnect.
 - 👯 I’m looking to collaborate with Unity developers.
 
 

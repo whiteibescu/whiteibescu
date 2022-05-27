@@ -1,5 +1,6 @@
-### Hi there 👋 I am a AR Unity Developer
+### Hi there 👋 I am an AR Unity Developer
 - 🔭 I’m currently working in Virnect.
+- ⚡ Specializing in Hololens2 and AR services.
 - 👯 I’m looking to collaborate with Unity developers.
 
 
@@ -18,6 +19,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 - 🌱 I’m currently learning Front End
 -->

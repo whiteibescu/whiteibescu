@@ -3,7 +3,6 @@
 - ⚡ Specializing in Hololens2 and AR services.
 - 👯 I’m looking to collaborate with Unity developers.
 
-
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteibescu)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteibescu)](https://github.com/anuraghazra/github-readme-stats)

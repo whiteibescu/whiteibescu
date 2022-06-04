@@ -1,4 +1,4 @@
-![title]<img src ="https://github.com/whiteibescu/whiteibescu/blob/main/title.png?raw=true">{: width"100%}
+<img src ="https://github.com/whiteibescu/whiteibescu/blob/main/title.png?raw=true">
                                                                                                                         
 
 ### Hi there 👋 I am an AR Unity Developer

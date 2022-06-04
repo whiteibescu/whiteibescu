@@ -1,13 +1,13 @@
 <div align=center>
 <img src ="https://github.com/whiteibescu/whiteibescu/blob/main/title.png?raw=true">
 
-                                                                                                                        
-
 ### Hi there 👋 I am an AR Unity Developer
-- 🔭 I’m currently working in an AR Company called Virnect.
-- ⚡ Specializing in Hololens2 and AR services.
-- 👯 I’m looking to collaborate with Unity developers.
+🔭 I’m currently working in an AR Company called Virnect.
+⚡ Specializing in Hololens2 and AR services.
+👯 I’m looking to collaborate with Unity developers.
 </div>
+
+
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteibescu)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteibescu)](https://github.com/anuraghazra/github-readme-stats)

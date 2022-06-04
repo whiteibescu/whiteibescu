@@ -9,7 +9,7 @@
 
 
 ---
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+
 ---
 ![snake gif](https://github.com/whiteibescu/whiteibescu/blob/output/github-contribution-grid-snake.svg)
 <!--
@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 - 🌱 I’m currently learning Front End
 -->

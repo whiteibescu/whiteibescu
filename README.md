@@ -1,6 +1,4 @@
-<p align="center>
-<img src ="https://raw.githubusercontent.com/whiteibescu/whiteibescu/5b8ab91d2f600f5784958ec0314439c4e9bc17eb/Title.png">
-                                                                                                                        </p>
+![title]<img src ="https://raw.githubusercontent.com/whiteibescu/whiteibescu/5b8ab91d2f600f5784958ec0314439c4e9bc17eb/Title.png">{: width"100%}
                                                                                                                         
 
 ### Hi there 👋 I am an AR Unity Developer

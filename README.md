@@ -2,9 +2,9 @@
 <img src ="https://github.com/whiteibescu/whiteibescu/blob/main/title.png?raw=true">
 
 ### Hi there 👋 I am an AR Unity Developer
-🔭 I’m currently working in an AR Company called Virnect.
-⚡ Specializing in Hololens2 and AR services.
-👯 I’m looking to collaborate with Unity developers.
+🔭 I’m currently working in an AR Company called Virnect.  
+⚡ Specializing in Hololens2 and AR services.  
+👯 I’m looking to collaborate with Unity developers.  
 </div>
 
 

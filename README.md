@@ -7,10 +7,12 @@
 👯 I’m looking to collaborate with Unity developers.  
 </div>
 
-
----
 <img src="https://img.shields.io/badge/Unity-003545?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=CSharp&logoColor=white">
+
+
+---
+
 ---
 ![snake gif](https://github.com/whiteibescu/whiteibescu/blob/output/github-contribution-grid-snake.svg)
 <!--

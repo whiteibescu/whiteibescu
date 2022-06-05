@@ -3,17 +3,35 @@
 
 ### Hi there 👋 I am an AR Unity Developer
 🔭 I’m currently working in an AR Company called [Virnect.](https://virnect.com/?gclid=Cj0KCQjw4uaUBhC8ARIsANUuDjXcfnTt5qs1N3jUCz8w6WUBvpMIQNgeD7i7I4Ej93pT60YmTUe66h8aAsVCEALw_wcB)  
-⚡ Specializing in Hololens2 and AR services.  
+⚡ Specializing in [Hololens2](https://www.microsoft.com/en-us/hololens) and AR services.  
 👯 I’m looking to collaborate with Unity developers.  
+  
+  
+  
+<img src="https://img.shields.io/badge/Unity-003545?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=CSharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
 </div>
 
-<img src="https://img.shields.io/badge/Unity-003545?style=for-the-badge&logo=Unity&logoColor=white"><img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=CSharp&logoColor=white">
 
 
----
 
 ---
 ![snake gif](https://github.com/whiteibescu/whiteibescu/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **whiteibescu/whiteibescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

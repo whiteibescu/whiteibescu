@@ -8,7 +8,7 @@
   
   
   
-<img src="https://img.shields.io/badge/Unity-003545?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=CSharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-003545?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=CSharp&logoColor=white"> <img src="https://img.shields.io/badge/Hololens2-FF9E0F?style=for-the-badge&logo=Microsoft&logoColor=white"/>
 </div>
 
 
@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
 - 🌱 I’m currently learning Front End
 -->

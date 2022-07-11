@@ -4,7 +4,7 @@
 ### Hi there 👋 I am an AR Unity Developer
 🔭 I’m currently working in an AR Company called [Virnect.](https://virnect.com/?gclid=Cj0KCQjw4uaUBhC8ARIsANUuDjXcfnTt5qs1N3jUCz8w6WUBvpMIQNgeD7i7I4Ej93pT60YmTUe66h8aAsVCEALw_wcB)  
 ⚡ Specializing in [Hololens2](https://www.microsoft.com/en-us/hololens) and AR services.  
-👯 I’m looking to collaborate with Unity developers.  
+👯 I’m currently working on city gaspipeline project.
   
   
   

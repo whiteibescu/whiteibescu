@@ -1,62 +1,41 @@
-<div align=center>
-<img src ="https://github.com/whiteibescu/whiteibescu/blob/main/title.png?raw=true">
-</div>
+# 🏠 Welcome to Park's Garage
 
-👋 Hi there! I'm an XR/3D Developer
+👋 Hi there! I'm an XR/3D Developer  
 *"Accelerating digital transformation in traditional industries through XR technology"*
 
 ## 🚀 About Me
 I'm a specialized XR developer with extensive experience in **Unity 3D** and **industrial simulation**. I bridge the gap between cutting-edge XR technology and real-world industrial applications, creating immersive solutions for education, training, and visualization.
 
+## 🔧 What is Park's Garage?
+This is my digital workshop - a collection of open-source tools, plugins, and resources that I've built throughout my XR development journey. Just like a neighborhood garage where tools are shared and knowledge is passed down, this space is **open to all travelers seeking knowledge** and looking to accelerate their XR projects.
 
-<!-- ## 💡 Core Expertise
+## 🎯 For Knowledge Seekers & Builders
+Whether you're:
+- 🔰 **Starting your XR journey** - Find friendly templates and examples
+- 🏭 **Working on industrial applications** - Discover specialized tools for real-world implementations  
+- 🌍 **Exploring geospatial visualization** - Access GIS integration utilities
+- 🚁 **Building simulation systems** - Grab drone control and industrial simulation components
+- 🔧 **Looking for Unity plugins** - Find ready-to-use tools that extend Unity's capabilities
 
-### 🎯 **XR Development**
-* **AR/VR/MR Solutions** using Unity 3D
-* **XR HMD Experiences** for HoloLens 2, Magic Leap 2, Apple Vision Pro, and Meta Quest 3
-* **ARFoundation** mobile AR experiences
-* **CAVE Systems** with MiddleVR
+**You're welcome here!**
 
-### 🏭 **Industrial Simulation**
-* Battery manufacturing process training
-* Drone simulation and control systems
-* Precision machinery AR visualization
-* Real-time industrial data integration
-* Importing, exporting, and visualizing industrial 3D formats
+## 💡 How to Use This Garage
+Each repository includes:
+- 📚 **Comprehensive documentation** - Clear setup and usage instructions
+- 🎬 **Demo videos/GIFs** - See the tools in action
+- 🧪 **Example scenes** - Ready-to-run demonstrations
+- 🤝 **Community support** - Issues and discussions are welcome
 
-### 🌍 **Geospatial Visualization**
-* **GIS Data Processing** with QGIS
-* **3D Earth Visualization** using Cesium
-* Custom **Unity plugins** for SHP file handling
-* Using 3D Tiles to visualize areas and build prototype digital twin systems
+## 🤝 Contributing & Community
+This garage thrives on collaboration! Feel free to:
+- Submit issues and feature requests
+- Contribute improvements and fixes
+- Share your own implementations
+- Ask questions and help others
 
-## 🛠 Tech Stack
+---
 
-**Game Engines & Platforms**
-* Unity 3D, Unreal Engine 4.27
-* HoloLens, ARCore, MiddleVR
+*"The best tools are the ones that help others build amazing things. Take what you need, contribute what you can, and let's build the future of XR together!"*
 
-**3D & Visualization**
-* Cesium, FBX Pipeline
-* QGIS, SHP Processing
-* Industrial 3D Formats: URDF, STP, OBJ, STL
-
-**Specialized Technologies**
-* AirSim, PX4, QGroundController
-* ChatGPT API, LLM Integration
-* AWS Cloud Services
-
-## 💪 Key Strengths
-* ⚡ **Rapid Prototyping**: Quick technology validation and MVP development
-* 🔗 **Technology Integration**: Seamlessly combining traditional industries with XR
-* 🛠️ **Custom Tool Development**: Extending the Unity ecosystem through plugins
-* 🎯 **Industry Focus**: Understanding diverse industry domains and delivering tailored solutions through customization and technology fusion
-
-## 📈 What I Bring
-* **Proven track record** in delivering complex XR projects
-* **Cross-industry experience** spanning battery, defense, and precision machinery sectors
-* **Technology fusion** combining XR with industrial systems
-* **AI-enhanced solutions** for next-generation applications -->
-
-## 📫 Let's Connect!
-I'm always interested in challenging XR projects that push the boundaries of industrial applications. Let's build the future of immersive technology together!
+**Happy coding!** 🚀  
+*- Park*

@@ -1,47 +1,62 @@
 <div align=center>
 <img src ="https://github.com/whiteibescu/whiteibescu/blob/main/title.png?raw=true">
-
-### Hi there 👋 I am an AR Unity Developer
-🔭 I’m currently working in an AR Company called [Virnect.](https://virnect.com/?gclid=Cj0KCQjw4uaUBhC8ARIsANUuDjXcfnTt5qs1N3jUCz8w6WUBvpMIQNgeD7i7I4Ej93pT60YmTUe66h8aAsVCEALw_wcB)  
-⚡ Specializing in [Hololens2](https://www.microsoft.com/en-us/hololens) and AR services.  
-👯 I’m customizing [Virnect View](https://play.google.com/store/apps/details?id=com.viewglass.mobile) product.
-  
-  
-  
-<img src="https://img.shields.io/badge/Unity-003545?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=CSharp&logoColor=white"> <img src="https://img.shields.io/badge/Hololens2-FF9E0F?style=for-the-badge&logo=Microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/OculusQuest2-0467DF?style=for-the-badge&logo=Meta&logoColor=white"/>
 </div>
 
+👋 Hi there! I'm an XR/3D Developer
+*"Accelerating digital transformation in traditional industries through XR technology"*
+
+## 🚀 About Me
+I'm a specialized XR developer with extensive experience in **Unity 3D** and **industrial simulation**. I bridge the gap between cutting-edge XR technology and real-world industrial applications, creating immersive solutions for education, training, and visualization.
 
 
----
-![snake gif](https://github.com/whiteibescu/whiteibescu/blob/output/github-contribution-grid-snake.svg)
+<!-- ## 💡 Core Expertise
 
+### 🎯 **XR Development**
+* **AR/VR/MR Solutions** using Unity 3D
+* **XR HMD Experiences** for HoloLens 2, Magic Leap 2, Apple Vision Pro, and Meta Quest 3
+* **ARFoundation** mobile AR experiences
+* **CAVE Systems** with MiddleVR
 
+### 🏭 **Industrial Simulation**
+* Battery manufacturing process training
+* Drone simulation and control systems
+* Precision machinery AR visualization
+* Real-time industrial data integration
+* Importing, exporting, and visualizing industrial 3D formats
 
+### 🌍 **Geospatial Visualization**
+* **GIS Data Processing** with QGIS
+* **3D Earth Visualization** using Cesium
+* Custom **Unity plugins** for SHP file handling
+* Using 3D Tiles to visualize areas and build prototype digital twin systems
 
+## 🛠 Tech Stack
 
+**Game Engines & Platforms**
+* Unity 3D, Unreal Engine 4.27
+* HoloLens, ARCore, MiddleVR
 
+**3D & Visualization**
+* Cesium, FBX Pipeline
+* QGIS, SHP Processing
+* Industrial 3D Formats: URDF, STP, OBJ, STL
 
+**Specialized Technologies**
+* AirSim, PX4, QGroundController
+* ChatGPT API, LLM Integration
+* AWS Cloud Services
 
+## 💪 Key Strengths
+* ⚡ **Rapid Prototyping**: Quick technology validation and MVP development
+* 🔗 **Technology Integration**: Seamlessly combining traditional industries with XR
+* 🛠️ **Custom Tool Development**: Extending the Unity ecosystem through plugins
+* 🎯 **Industry Focus**: Understanding diverse industry domains and delivering tailored solutions through customization and technology fusion
 
+## 📈 What I Bring
+* **Proven track record** in delivering complex XR projects
+* **Cross-industry experience** spanning battery, defense, and precision machinery sectors
+* **Technology fusion** combining XR with industrial systems
+* **AI-enhanced solutions** for next-generation applications -->
 
-
-
-
-
-
-
-<!--
-**whiteibescu/whiteibescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteibescu)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteibescu)](https://github.com/anuraghazra/github-readme-stats)
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
-- 🌱 I’m currently learning Front End
--->
+## 📫 Let's Connect!
+I'm always interested in challenging XR projects that push the boundaries of industrial applications. Let's build the future of immersive technology together!

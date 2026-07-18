@@ -15,7 +15,9 @@ I'm an XR developer specializing in **Unity 3D** and **industrial simulation**. 
 
 ## 🚧 What I'm Up To
 
-Most of my work lives in private repositories these days — industrial XR projects, simulation tooling, and robotics side experiments. If something I've worked on sounds relevant to you, feel free to reach out.
+These days I'm focused on **computer vision and drone development** — flying FPV drones and working toward autonomous flight, from simulation (sim-to-real) to the field.
+
+Most of my work lives in private repositories these days. If something I've worked on sounds relevant to you, feel free to reach out.
 
 ---
 

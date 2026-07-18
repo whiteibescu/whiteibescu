@@ -1,31 +1,23 @@
-# 🧰 Welcome to Park's Lab
+# 🧰 Park's Lab
 
-## 🚀 About Me
-👋 Hi there! I'm a specialized XR developer with extensive experience in **Unity 3D** and **industrial simulation**. I bridge the gap between cutting-edge XR technology and real-world industrial applications, creating immersive solutions for education, training, and visualization.
-*"Accelerating digital transformation in traditional industries through XR technology"*
+## 👋 About Me
 
-## 🔧 What is Park's Lab?
-This is my digital workshop - a collection of open-source tools, plugins, and resources that I've built throughout my XR development journey. Just like a neighborhood garage where tools are shared and knowledge is passed down, this space is **open to all travelers seeking knowledge** and looking to accelerate their XR projects.
+I'm an XR developer specializing in **Unity 3D** and **industrial simulation**. I bridge the gap between cutting-edge XR technology and real-world industrial applications, building immersive solutions for education, training, and visualization.
 
-**You're welcome here!**
+> *"Accelerating digital transformation in traditional industries through XR technology"*
 
-## 💡 How to Use This Lab
-Each repository includes:
-- 📚 **Comprehensive documentation** - Clear setup and usage instructions
-- 🎬 **Demo videos/GIFs** - See the tools in action
-- 🧪 **Example scenes** - Ready-to-run demonstrations
-- 🤝 **Community support** - Issues and discussions are welcome
+## 🔧 What I Work With
 
-## 🤝 Contributing & Community
-This garage thrives on collaboration! Feel free to:
-- Submit issues and feature requests
-- Contribute improvements and fixes
-- Share your own implementations
-- Ask questions and help others
+- **XR / Unity** — Unity 3D, AR/MR (HoloLens), WebGL deployment, 3D asset pipelines (Blender)
+- **Computer Vision** — OpenCV, marker/QR detection for AR applications
+- **Simulation & Robotics** — physics-based simulation, sim-to-real experiments (Gazebo, SITL)
+- **Languages** — C#, Python, C/C++
+
+## 🚧 What I'm Up To
+
+Most of my work lives in private repositories these days — industrial XR projects, simulation tooling, and robotics side experiments. If something I've worked on sounds relevant to you, feel free to reach out.
 
 ---
 
-*"The best tools are the ones that help others build amazing things. Take what you need, contribute what you can, and let's build the future of XR together!"*
-
-**Happy coding!** 🚀  
+**Happy coding!** 🚀
 *- Park*
